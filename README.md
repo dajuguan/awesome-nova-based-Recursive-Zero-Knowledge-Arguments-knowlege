@@ -26,13 +26,19 @@ Nova学习小组整理的基于Nova的递归零知识证明资料。
 - [PSE HyperNova](https://github.com/privacy-scaling-explorations/Nova/tree/hypernova)
 - [PSE Supernova](https://github.com/microsoft/Nova/pull/204)
 - [ProtoGalaxy PoC implementation](https://github.com/arnaucube/protogalaxy-poc)
-### Acclerating Nova
+### Accelerating Nova
 - [Parallelizing Nova](https://zkresear.ch/t/parallelizing-nova-visualizations-and-mental-models-behind-paranova/198)
 - [Super nova & parallelizing nova](https://zuzalu.streameth.org/session/169)
 ### Circuit integeration
 - [Middleware to compile Circom circuits to Nova](https://github.com/nalinbhardwaj/Nova-Scotia)
 ### On-chain verifier
 - [Solidity implementation of Nova proving system verifier](https://github.com/lurk-lab/solidity-verifier)
+
+### PCS
+- [Spartan2](https://github.com/microsoft/Spartan2)
+
+### Applications
+- [MACI v2:MACI + Nova + ElGamal PoC](https://github.com/privacy-scaling-explorations/MACI-v2)
 
 ## 其他
 - [用于生成Transcript的Sponge API ](https://hackmd.io/bHgsH6mMStCVibM_wYvb2w)

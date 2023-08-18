@@ -39,6 +39,7 @@ Nova学习小组整理的基于Nova的递归零知识证明资料。
 # 探索代码
 - [Microsoft Nova implementation](https://github.com/microsoft/Nova)
 - [RiscZero Nova](https://github.com/hero78119/risc0-nova)
+- [Superper nova pr](https://github.com/microsoft/Nova/pull/204) has been moved to [lurk-lab/arecibo branch](https://github.com/hero78119/arecibo/tree/arecibo_supernova) to further polish its interfaces 
 ## Nova extensions 
 - [PSE HyperNova](https://github.com/privacy-scaling-explorations/Nova/tree/hypernova)
 - [PSE Supernova](https://github.com/microsoft/Nova/pull/204)
@@ -60,4 +61,7 @@ Nova学习小组整理的基于Nova的递归零知识证明资料。
   - [Scalable Zero Knowledge via Cycles of Elliptic Curves](https://eprint.iacr.org/2014/595.pdf)
   - [The halo2 book](https://zcash.github.io/halo2/index.html)
   - [Nova based zk VM:循环曲线这一节讲解不错](https://hackmd.io/@monyverse/H1XSVmHNh#Curve-Cycling)
+  ## bellperson overview
+  - [Bellman: zk-SNARKs in Rust](https://electriccoin.co/blog/bellman-zksnarks-in-rust/)
+
 

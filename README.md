@@ -9,6 +9,7 @@ Nova学习小组整理的基于Nova的递归零知识证明资料。
 - 23/07/01会议梳理了Nova的verifier电路的constrains及运算，以及primary电路和secondary电路的交互，以及之前Nova实现存在的Soundness漏洞, [录像文件](https://www.youtube.com/watch?v=gopJn_QAdqU&list=PLbQFt1T_44DwtG7Qv_BEyCP_t37qT9yMV&index=1)
 - 23/07/09会议讨论了Nova中constrain system里面的运算优化的疑点、延展性攻击和一些最新的库，[录像文件](https://www.youtube.com/watch?v=z4aEW9hxEs8&list=PLbQFt1T_44DwtG7Qv_BEyCP_t37qT9yMV&index=2)
 - 23/07/16会议郭宇老师解读了Spartan论文的前半部分，[录像文件](https://www.youtube.com/watch?v=at2U9iOvEBg&list=PLbQFt1T_44DwtG7Qv_BEyCP_t37qT9yMV&index=3)
+- 23/09/02会议讨论了Supernova及其Read only memory的实现，[录像文件](https://www.youtube.com/watch?v=xmMF5qn1T0M)
 
 # 视频讲解
 - [by 作者Srinath Setty [EN]](https://www.youtube.com/watch?v=mY-LWXKsBLc)
